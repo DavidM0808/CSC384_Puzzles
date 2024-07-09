@@ -1,6 +1,6 @@
 ### Overview
 
-This repository contains 2 python files that simulates and solve 2 puzzles: Hua Rong Dao and Checker.
+This repository contains 2 python files that simulates and solve 2 puzzles: Hua Rong Dao and Checker. The files are written and uploaded for Assignments in CSC384 at University of Toronto.
 
 The Hua Rong Dao puzzle is solved by using 2 search methods: Depth First Search and A* Search. A file named "__hrd_heuristics.pdf__" contains the detail about the heurstic function used for the A* search.
 
